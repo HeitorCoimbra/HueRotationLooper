@@ -6,7 +6,7 @@ Hue rotation means to individually increment some offset to the hue of each pixe
 
 ![spooky skeleton](https://media.giphy.com/media/ftfT93cCdlKvT7icgh/200w_d.gif)
 
-[Full video](https://media.giphy.com/media/ftfT93cCdlKvT7icgh/giphy.mp4)
+[Full video](https://youtu.be/gFlb1thSg4M)
 
 ## Dependencies
 This code depends on the following Python3 modules.
