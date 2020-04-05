@@ -16,7 +16,6 @@ numpy
 Pillow
 imageio
 imageio-ffmpeg
-
 ```
 
 Should you find you do not have these installed get them with pip like so.
